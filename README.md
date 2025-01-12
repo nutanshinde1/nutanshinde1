@@ -1,0 +1,2 @@
+- Hi, I’m @nutanshinde1
+- I’m currently learning OOPS and DSA
