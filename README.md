@@ -1,7 +1,5 @@
-#  Hi, I'm Nutan 👋
+#  Hi, I'm Nutan
  Student |  Web Developer |  Aspiring Tech Enthusiast 
-
-
 ---
 
 ## Tech Stack & Interests
@@ -15,18 +13,18 @@
 
 ##  My Projects
 
-### 🎁 [INnove – Loop of Love](https://yourusername.github.io/innove-website)
+###  [INnove – Loop of Love](https://yourusername.github.io/innove-website)
 Custom return gift website made using HTML, CSS – clean UI, WhatsApp integration, responsive & aesthetic.
 
-### 🧠 AI Travel Planner
+###  AI Travel Planner
 AI-based destination recommender using user input & third-party APIs.
 
-### ⏱️ Android Stopwatch
+###  Android Stopwatch
 A basic stopwatch app made using Kotlin & Android Studio.
 
 ---
 
-##  What I'm Learning
+## Learning
 
 - DSA (Data Structures & Algorithms)
 - AWS & Cloud Fundamentals ☁️
@@ -38,7 +36,7 @@ A basic stopwatch app made using Kotlin & Android Studio.
 
 ## 📈 GitHub Stats
 
-![Nutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutanshinde1&show_icons=true&theme=rose_pine)
+<<!--[Nutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutanshinde1&show_icons=true&theme=rose_pine) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutanshinde1&layout=compact&theme=rose_pine)
 
@@ -47,11 +45,8 @@ A basic stopwatch app made using Kotlin & Android Studio.
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nutan-shinde-00b688292/)
-- 📷 [Instagram]()
+<<!-- 📷 [Instagram]()-->>
 - 💌 natun.shinde23@pccoepune.org
-
-> “One line of code today is one step closer to your dream.” 💫
-
 ---
 
-_Thanks for visiting my profile! Drop a star ⭐ on any repo you like._
+_Thanks for visiting my profile! Drop a star ⭐ on any repository you like._
