@@ -1,4 +1,4 @@
-# 💫 Hi there! I'm Nutan 👋
+#  Hi, I'm Nutan 👋
 
 🎓 *Electronics & Telecommunication Engineering Student*  
 💻 *Aspiring Software Developer & Tech Creator*  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tech Stack & Interests
+## Tech Stack & Interests
 
 - **Languages:** C, C++, Java, Python
 - **Web:** HTML, CSS, JavaScript, ReactJS
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 My Projects
+##  My Projects
 
 ### 🎁 [INnove – Loop of Love](https://yourusername.github.io/innove-website)
 Custom return gift website made using HTML, CSS – clean UI, WhatsApp integration, responsive & aesthetic.
@@ -28,7 +28,7 @@ A basic stopwatch app made using Kotlin & Android Studio.
 
 ---
 
-## 🧩 What I'm Learning
+##  What I'm Learning
 
 - DSA (Data Structures & Algorithms)
 - AWS & Cloud Fundamentals ☁️
