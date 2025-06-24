@@ -2,7 +2,7 @@
 
 🎓 *Electronics & Telecommunication Engineering Student*  
 💻 *Aspiring Software Developer & Tech Creator*  
-🌟 *Founder of INnove – Loop of Love (Return Gift Brand)*
+
 
 ---
 
