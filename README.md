@@ -1,7 +1,5 @@
 #  Hi, I'm Nutan 👋
-
-🎓 *Electronics & Telecommunication Engineering Student*  
-💻 *Aspiring Software Developer & Tech Creator*  
+ Student |  Web Developer |  Aspiring Tech Enthusiast 
 
 
 ---
