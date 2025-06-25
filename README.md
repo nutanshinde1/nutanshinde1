@@ -3,12 +3,13 @@
 ---
 ## Technical Skills
 
-**Programming:** C, C++, Java, Python, JavaScript, TypeScript  
-**Web Development:** HTML, CSS, React, Next.js, Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**UI/UX & Libraries:** Tailwind CSS, Radix UI, Figma  
-**Dev & Tools:** Git, GitHub, Docker, Kubernetics  
-**Core CS:** Data Structures & Algorithms (100+ questions), OOP, DBMS, OS, CN
+Programming: C, C++, Java, Python, JavaScript, TypeScript  
+Web Development: HTML, CSS, React, Node.js, Express.js  
+Databases: MongoDB, MySQL  
+UI/UX & Libraries: Tailwind CSS, Figma  
+Dev & Tools: Git, GitHub, Docker,Kubernetics
+Core CS: Data Structures & Algorithms (100+ questions), OOP, DBMS, OS, CN
+
 ---
 
 ##  My Projects
