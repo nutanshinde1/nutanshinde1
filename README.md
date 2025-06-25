@@ -1,15 +1,14 @@
 #  Hi, I'm Nutan
  Student |  Web Developer |  Aspiring Tech Enthusiast 
 ---
-
 ## Technical Skills
 
-** Programming:** C, C++, Java, Python, JavaScript, TypeScript  
-** Web Development:** HTML, CSS, React, Next.js, Redux, Node.js, Express.js  
-** Databases:** MongoDB, MySQL  
-** UI/UX & Libraries:** Tailwind CSS, Shadcn UI, Material UI, Radix UI, Figma  
-** Dev & Tools:** Git, GitHub, Docker, Postman, Firebase  
-** Core CS:** Data Structures & Algorithms (1000+ questions), OOP, DBMS, OS, CN
+**Programming:** C, C++, Java, Python, JavaScript, TypeScript  
+**Web Development:** HTML, CSS, React, Next.js, Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**UI/UX & Libraries:** Tailwind CSS, Radix UI, Figma  
+**Dev & Tools:** Git, GitHub, Docker, Kubernetics  
+**Core CS:** Data Structures & Algorithms (100+ questions), OOP, DBMS, OS, CN
 ---
 
 ##  My Projects
