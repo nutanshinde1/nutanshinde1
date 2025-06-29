@@ -1,5 +1,5 @@
 
- Student |  Web Developer |  Aspiring Tech Enthusiast 
+ Learner |  Web Developer |  Aspiring Tech Enthusiast 
 ---
 ## Technical Skills
 
