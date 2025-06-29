@@ -1,4 +1,4 @@
-#  Hi, I'm Nutan
+
  Student |  Web Developer |  Aspiring Tech Enthusiast 
 ---
 ## Technical Skills
