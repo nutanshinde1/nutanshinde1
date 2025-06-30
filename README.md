@@ -1,14 +1,5 @@
 
- Learner |  Web Developer |  Aspiring Tech Enthusiast 
----
-## Technical Skills
-
-Programming: C, C++, Java, Python, JavaScript, TypeScript  
-Web Development: HTML, CSS, React, Node.js, Express.js  
-Databases: MongoDB, MySQL  
-UI/UX & Libraries: Tailwind CSS, Figma  
-Dev & Tools: Git, GitHub, Docker,Kubernetics
-Core CS: Data Structures & Algorithms (100+ questions), OOP, DBMS, OS, CN
+ Learner |  Web Developer
 
 ---
 
@@ -16,16 +7,6 @@ Core CS: Data Structures & Algorithms (100+ questions), OOP, DBMS, OS, CN
 
 ###  [INnove – Loop of Love]( https://nutanshinde1.github.io/INnove/)
 Custom return gift website made using HTML, CSS – clean UI, WhatsApp integration, responsive & aesthetic.
-
----
-
-## Learning
-
-- DSA (Data Structures & Algorithms)
-- AWS & Cloud Fundamentals ☁️
-- UI/UX for better design
-- Full Stack Development
-- Git + Version Control
 
 ---
 
