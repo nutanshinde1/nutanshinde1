@@ -1,6 +1,5 @@
 
- Learner |  Web Developer
-
+ Learner
 ---
 
 ##  My Projects
