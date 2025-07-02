@@ -2,8 +2,6 @@
  Learner
 ---
 
-##  My Projects
-
 ###  [INnove – Loop of Love]( https://nutanshinde1.github.io/INnove/)
 Custom return gift website made using HTML, CSS – clean UI, WhatsApp integration, responsive & aesthetic.
 
