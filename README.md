@@ -16,11 +16,5 @@ Custom return gift website made using HTML, CSS – clean UI, WhatsApp integrati
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nutan-shinde-00b688292/)
-<<!-- 📷 [Instagram]()-->>
-- 💌 natun.shinde23@pccoepune.org
----
 
 _Thanks for visiting my profile! Drop a star ⭐ on any repository you like._
