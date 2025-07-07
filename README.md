@@ -8,7 +8,7 @@ Custom return gift website made using HTML, CSS – clean UI, WhatsApp integrati
 ---
 
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats -
 
 ![Nutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutanshinde1&show_icons=true&theme=rose_pine) 
 
