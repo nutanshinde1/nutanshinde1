@@ -1,7 +1,7 @@
 
 
 
-## 📈 GitHub Stats -
+## 📈 GitHub Stats - 
 
 ![Nutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nutanshinde1&show_icons=true&theme=rose_pine)  
 
