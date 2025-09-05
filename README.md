@@ -12,10 +12,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nutanshinde1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-## 📈 Contribution Graph
+## 📈 Contribution Graaph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nutanshinde1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/nutanshinde1/nutanshinde1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/nutanshinde1/nutanshinde1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 ---
