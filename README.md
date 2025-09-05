@@ -1,6 +1,6 @@
 # Hi there, I'm Nutan Shinde 
 
-Passionate about **Software Development, Cloud & DevOps, and Full-Stack Web Development**.  
+- Passionate about **Software Development, Cloud & DevOps, and Full-Stack Web Development**.  
 Always curious to learn and build impactful tech projects.  
 ---
 ## 🛠️ Skills
@@ -25,7 +25,7 @@ Always curious to learn and build impactful tech projects.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nutanshinde1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 📈 Contribution Graaph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nutanshinde1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
