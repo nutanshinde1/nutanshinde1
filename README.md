@@ -1,4 +1,4 @@
-# Hi there, I'm Nutan Shinde 
+ # Hi there, I'm Nutan Shinde 
 
 - Passionate about **Software Development, Cloud & DevOps, and Full-Stack Web Development**.  
 Always curious to learn and build impactful tech projects.  
@@ -30,9 +30,6 @@ Always curious to learn and build impactful tech projects.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nutanshinde1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nutanshinde1/nutanshinde1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Contribution Snake](https://raw.githubusercontent.com/nutanshinde1/nutanshinde1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
