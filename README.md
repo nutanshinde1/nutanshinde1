@@ -9,7 +9,7 @@ Always curious to learn and build impactful tech projects.
 - Web & Cloud: React, AWS, Docker, Firebase 
 - Debugging & Tools: Git, GitHub, Figma
 ---
-  
+   
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nutanshinde1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
