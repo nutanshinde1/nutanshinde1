@@ -3,7 +3,7 @@
 - Passionate about **Software Development, Cloud & DevOps, and Full-Stack Web Development**.  
 Always curious to learn and build impactful tech projects.  
 ---
-## 🛠️ Skills
+## 🛠️ Skills 
 - Programming: C, C++, Python,JavaScript, TypeScript 
 - Networking & Systems: Computer Networks, OS Fundamentals 
 - Web & Cloud: React, AWS, Docker, Firebase 
