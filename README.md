@@ -4,7 +4,7 @@
 Always curious to learn and build impactful tech projects.  
 ---
 ## 🛠️ Skills 
-- Programming: C, C++, Python,JavaScript, TypeScript 
+- Programming: C, C++, Python,JavaScript, TypeScript  
 - Networking & Systems: Computer Networks, OS Fundamentals 
 - Web & Cloud: React, AWS, Docker, Firebase 
 - Debugging & Tools: Git, GitHub, Figma
