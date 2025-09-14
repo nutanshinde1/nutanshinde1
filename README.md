@@ -1,6 +1,6 @@
  # Hi there, I'm Nutan Shinde 
 
-- Passionate about **Software Development, Cloud & DevOps, and Full-Stack Web Development**.  
+- Passionate about **Software Development, Cloud & DevOps, and Full-Stack Web Development**.   
 Always curious to learn and build impactful tech projects.  
 ---
 ## 🛠️ Skills 
