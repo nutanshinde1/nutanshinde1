@@ -36,12 +36,12 @@
   
 ---
 
-<!-- ## 🚀 Projects  -->
+<!-- ## 🚀 Projects 
 
 
 👉 Check my repositories for detailed code & documentation.
 
----
+---  -->
 
 ## 📈 GitHub Stats  
 
@@ -61,4 +61,5 @@
 ---
 
 ⭐ **If you like my work, consider giving a star to my repositories!**  
+
 🔥 *Learning. Building. Growing. Repeating.*  
