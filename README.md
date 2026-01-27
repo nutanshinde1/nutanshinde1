@@ -55,7 +55,6 @@
 
 - 💼 LinkedIn: [linkedin.com/in/nutan-shinde-00b688292](https://www.linkedin.com/in/nutan-shinde-00b688292/)  
 - 💻 GitHub: [github.com/nutanshinde1](https://github.com/nutanshinde1)  
-- 🧠 LeetCode: [leetcode.com/u/nutanshinde01](https://leetcode.com/u/nutanshinde01/)  
 - 📧 Email: shindenutan3714@gmail.com  
 
 ---
