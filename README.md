@@ -1,7 +1,7 @@
 # Hi 👋, I'm Nutan Shinde  
 
 🚀 **Aspiring Software Engineer | Developer | ML Enthusiast**  
-🎓 Engineering Student (ENTC) 
+🎓 Engineering Student 
 💡 Passionate about building real-world tech solutions  
 
 ---
