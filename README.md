@@ -54,7 +54,7 @@
 ## 🌐 Connect With Me  
 
 - 💼 LinkedIn: [linkedin.com/in/nutan-shinde-00b688292](https://www.linkedin.com/in/nutan-shinde-00b688292/)  
-- 💻 GitHub: [github.com/nutanshinde1](https://github.com/nutanshinde1)  
+<!-- - 💻 GitHub: [github.com/nutanshinde1](https://github.com/nutanshinde1)   -->
 - 📧 Email: shindenutan3714@gmail.com  
 
 ---
