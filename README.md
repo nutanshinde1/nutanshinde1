@@ -3,7 +3,7 @@
 🚀 **Aspiring Software Engineer | Developer | ML Enthusiast**  
 🎓 Engineering Student 
 💡 Passionate about building real-world tech solutions  
-
+ 
 ---
 
 <!-- ## 🛠️ Tech Stack  
