@@ -89,7 +89,7 @@
 |--------|---------|------|
 | Dec 2025 – Jan 2026 | **Technokraft Training and Solution Pvt. Ltd.** | Full Stack Web Developer Intern |
 | May 2025 – Aug 2025 | **Vidhya Innovative Technology** | Full Stack Intern |
-| Jun 2025 – Jul 2025 | **Matrix Robotics Pvt. Ltd.** | Software Solution Intern |
+| Jun 2025 – Jul 2025 | **Matrix Robotics Pvt. Ltd. Pune** | Software Solution Intern |
 | Dec 2024 – Jan 2025 | **InternPe** | Programmer Intern |
 
 ---
