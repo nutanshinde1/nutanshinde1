@@ -1,16 +1,16 @@
 <div align="center">
- 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Nutan%20Arjun%20Shinde&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=17&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nutan+%F0%9F%91%8B;Full+Stack+Developer+%7C+4+Internships;9%2B+Projects+Built+%F0%9F%9B%A0%EF%B8%8F;100%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Learning.+Building.+Growing.+Repeating.+%F0%9F%94%A5)](https://git.io/typing-svg)
- 
+
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white)](https://nutanshinde1.github.io/MyPortfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutan-shinde-00b688292/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nutanshinde01/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Compete-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/natun_shinde23)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shindenutan3714@gmail.com)
+<a href="https://nutanshinde1.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nutan-shinde-00b688292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/nutanshinde01/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/natun_shinde23"><img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white"/></a>
+<a href="mailto:shindenutan3714@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nutanshinde1&color=6D28D9&style=flat-square&label=Profile+Views)
 
@@ -36,48 +36,31 @@
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nextjs,figma&theme=dark" />
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 
 **DevOps & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
 
 **ML / Data**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 
 **Tools**
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=vscode,postman,matlab&theme=dark" />
 
 </div>
 
@@ -89,7 +72,7 @@
 |--------|---------|------|
 | Dec 2025 – Jan 2026 | **Technokraft Training and Solution Pvt. Ltd.** | Full Stack Web Developer Intern |
 | May 2025 – Aug 2025 | **Vidhya Innovative Technology** | Full Stack Intern |
-| Jun 2025 – Jul 2025 | **Matrix Robotics Pvt. Ltd. Pune** | Software Solution Intern |
+| Jun 2025 – Jul 2025 | **Matrix Robotics Pvt. Ltd.** | Software Solution Intern |
 | Dec 2024 – Jan 2025 | **InternPe** | Programmer Intern |
 
 ---
@@ -98,7 +81,7 @@
 
 <div align="center">
 
-[![Smart Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=nutanshinde1&repo=clothes-virtual-try-on-main&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/nutanshinde1/clothes-virtual-try-on-main)
+[![clothes-virtual-try-on](https://github-readme-stats.vercel.app/api/pin/?username=nutanshinde1&repo=clothes-virtual-try-on-main&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/nutanshinde1/clothes-virtual-try-on-main)
 
 </div>
 
@@ -136,9 +119,9 @@
 
 <div align="center">
 
-![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-FFD700?style=for-the-badge&logo=github&logoColor=white)
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-00BFFF?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-6D28D9?style=for-the-badge&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-FFD700?style=flat-square&logo=github&logoColor=white)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-00BFFF?style=flat-square&logo=github&logoColor=white)
+![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-6D28D9?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
