@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/profile/natun_shinde23"><img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white"/></a>
 <a href="mailto:shindenutan3714@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-<-- ![Profile Views](https://komarev.com/ghpvc/?username=nutanshinde1&color=6D28D9&style=flat-square&label=Profile+Views) -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=nutanshinde1&color=6D28D9&style=flat-square&label=Profile+Views) -->
 
 </div>
 
