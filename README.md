@@ -2,6 +2,7 @@
  
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Nutan%20Arjun%20Shinde&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=17&animation=fadeIn"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nutan+%F0%9F%91%8B;Full+Stack+Developer+%7C+4+Internships;9%2B+Projects+Built+%F0%9F%9B%A0%EF%B8%8F;100%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Learning.+Building.+Growing.+Repeating.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
