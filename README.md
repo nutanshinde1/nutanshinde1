@@ -6,10 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nutan+%F0%9F%91%8B;Full+Stack+Developer+%7C+4+Internships;9%2B+Projects+Built+%F0%9F%9B%A0%EF%B8%8F;100%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Learning.+Building.+Growing.+Repeating.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
-
-<a href="https://nutanshinde1.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nutan-shinde-00b688292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<!-- <a href="https://leetcode.com/u/nutanshinde01/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<!-- <a href="https://nutanshinde1.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
+ <a href="https://leetcode.com/u/nutanshinde01/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/natun_shinde23"><img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white"/></a> -->
 <a href="mailto:shindenutan3714@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
 
