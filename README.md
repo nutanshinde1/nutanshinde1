@@ -7,9 +7,9 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/nutan-shinde-00b688292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<!-- <a href="https://nutanshinde1.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
+ <a href="https://nutanshinde1.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
  <a href="https://leetcode.com/u/nutanshinde01/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/natun_shinde23"><img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white"/></a> -->
+<a href="https://www.hackerrank.com/profile/natun_shinde23"><img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white"/></a> 
 <a href="mailto:shindenutan3714@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=nutanshinde1&color=6D28D9&style=flat-square&label=Profile+Views) -->
