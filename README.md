@@ -143,7 +143,7 @@
 
 | 🌐 Portfolio | 💼 LinkedIn | 💻 LeetCode | 🏅 HackerRank | 📧 Email |
 |:---:|:---:|:---:|:---:|:---:|
-| [MyPortfolio](https://nutanshinde1.github.io/MyPortfolio/) | [nutan-shinde-00b688292](https://www.linkedin.com/in/nutan-shinde-00b688292/) | [nutanshinde01](https://leetcode.com/u/nutanshinde01/) | [natun_shinde23](https://www.hackerrank.com/profile/natun_shinde23) | [shindenutan3714@gmail.com](mailto:shindenutan3714@gmail.com) |
+| [MyPortfolio](https://shindenutan45.vercel.app/) | [nutan-shinde-00b688292](https://www.linkedin.com/in/nutan-shinde-00b688292/) | [nutanshinde01](https://leetcode.com/u/nutanshinde01/) | [natun_shinde23](https://www.hackerrank.com/profile/natun_shinde23) | [shindenutan3714@gmail.com](mailto:shindenutan3714@gmail.com) |
 
 </div>
 
