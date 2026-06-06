@@ -98,15 +98,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nutanshinde1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutanshinde1&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nutanshinde1&theme=midnight-purple&hide_border=true&background=0D1117)](https://git.io/streak-stats)
