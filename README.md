@@ -79,11 +79,6 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![clothes-virtual-try-on](https://github-readme-stats.vercel.app/api/pin/?username=nutanshinde1&repo=clothes-virtual-try-on-main&theme=midnight-purple&hide_border=true&bg_color=0D1117)](https://github.com/nutanshinde1/clothes-virtual-try-on-main)
-
-</div>
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
@@ -95,14 +90,6 @@
 | 🌐 **Portfolio Website** | HTML, CSS, JavaScript | Personal portfolio with clean UI and animations |
 
 > 💡 9+ projects built — [view all on GitHub](https://github.com/nutanshinde1?tab=repositories)
-
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nutanshinde1&theme=midnight-purple&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
