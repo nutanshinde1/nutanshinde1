@@ -8,9 +8,11 @@
 
 ---
 
-## 👋 About Me
+
 <div align="left"> 
  
+## 👋 About Me
+
 - 🎓 **Engineering Student** at Pimpri Chinchwad College of Engineering, Pune
 - 💼 **4 Internships** — Full Stack, Software, Robotics & Programming roles
 - 🛠️ **9+ Projects** — Web apps, dashboards, IoT, ML and more
