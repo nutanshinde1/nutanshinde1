@@ -5,16 +5,6 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nutan+%F0%9F%91%8B;Full+Stack+Developer+%7C+4+Internships;9%2B+Projects+Built+%F0%9F%9B%A0%EF%B8%8F;100%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Learning.+Building.+Growing.+Repeating.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<br/>
-<a href="https://www.linkedin.com/in/nutan-shinde-00b688292/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/></a>
- <a href="https://nutanshinde1.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white"/></a>
- <a href="https://leetcode.com/u/nutanshinde01/"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/natun_shinde23"><img src="https://img.shields.io/badge/HackerRank-000000?style=flat-square&logo=hackerrank&logoColor=white"/></a> 
-<a href="mailto:shindenutan3714@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=nutanshinde1&color=6D28D9&style=flat-square&label=Profile+Views) -->
-
-</div>
 
 ---
 
@@ -76,7 +66,30 @@
 | Dec 2024 – Jan 2025 | **Intern-Pe** | Programmer Intern |
 
 ---
+## 🚀 Coding Profiles
 
+<p align="center">
+  <a href="https://leetcode.com/u/nutanshinde01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/natun_shinde23" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/profile/nutanshinde1?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  
+  <a href="https://www.interviewbit.com/profile/nutan-shinde_202/" target="_blank">
+    <img src="https://img.shields.io/badge/InterviewBit-34495E?style=for-the-badge" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/nutanshinde1" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+---
 ## 🚀 Featured Projects
 
 
@@ -110,18 +123,6 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nutanshinde1&bg_color=0D1117&color=A78BFA&line=6D28D9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-| 🌐 Portfolio | 💼 LinkedIn | 💻 LeetCode | 🏅 HackerRank | 📧 Email |
-|:---:|:---:|:---:|:---:|:---:|
-| [MyPortfolio](https://shindenutan45.vercel.app/) | [nutan-shinde-00b688292](https://www.linkedin.com/in/nutan-shinde-00b688292/) | [nutanshinde01](https://leetcode.com/u/nutanshinde01/) | [natun_shinde23](https://www.hackerrank.com/profile/natun_shinde23) | [shindenutan3714@gmail.com](mailto:shindenutan3714@gmail.com) |
 
 </div>
 
