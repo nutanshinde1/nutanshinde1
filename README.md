@@ -20,7 +20,7 @@
 - ☁️ **Growing in** — Development, DSA, Machine Learning & Cloud
 - 🤝 **Open to** — Internships, Collaborations & Open Source
 - 🔥 **Motto** — *Learning. Building. Growing. Repeating.*
-
+</div>
 ---
 ## 🚀 Coding Profiles
 
@@ -50,7 +50,7 @@
 ## 🛠️ Tech Stack
 
 <div align="centre"> 
-
+ 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark" />
