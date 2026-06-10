@@ -9,7 +9,7 @@
 ---
 
 ## 👋 About Me
-
+<div align="centre"> 
 - 🎓 **Engineering Student** at Pimpri Chinchwad College of Engineering, Pune
 - 💼 **4 Internships** — Full Stack, Software, Robotics & Programming roles
 - 🛠️ **9+ Projects** — Web apps, dashboards, IoT, ML and more
@@ -19,10 +19,34 @@
 - 🔥 **Motto** — *Learning. Building. Growing. Repeating.*
 
 ---
+## 🚀 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/nutanshinde01/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  
+  <a href="https://www.hackerrank.com/profile/natun_shinde23" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/profile/nutanshinde1?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  
+  <a href="https://www.interviewbit.com/profile/nutan-shinde_202/" target="_blank">
+    <img src="https://img.shields.io/badge/InterviewBit-34495E?style=for-the-badge" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/nutanshinde1" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+---
 
 ## 🛠️ Tech Stack
 
-<div align="right"> 
+<div align="centre"> 
 
 **Languages**
 
@@ -55,30 +79,7 @@
 </div>
 
 ---
-## 🚀 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/nutanshinde01/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  
-  <a href="https://www.hackerrank.com/profile/natun_shinde23" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  
-  <a href="https://www.geeksforgeeks.org/profile/nutanshinde1?tab=activity" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  
-  <a href="https://www.interviewbit.com/profile/nutan-shinde_202/" target="_blank">
-    <img src="https://img.shields.io/badge/InterviewBit-34495E?style=for-the-badge" />
-  </a>
-  
-  <a href="https://www.codechef.com/users/nutanshinde1" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
----
 
 ## 💼 Experience
 
