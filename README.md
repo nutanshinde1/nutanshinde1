@@ -9,7 +9,7 @@
 ---
 
 ## 👋 About Me
-<div align="centre"> 
+<div align="right"> 
  
 - 🎓 **Engineering Student** at Pimpri Chinchwad College of Engineering, Pune
 - 💼 **4 Internships** — Full Stack, Software, Robotics & Programming roles
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
----
+
 
 ## 🛠️ Tech Stack
 
